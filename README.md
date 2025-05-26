@@ -37,3 +37,27 @@ Then install dependencies: pip install -r requirements.txt
 ✅ 3. Run the App
 
 streamlit run app.py
+
+---
+
+🧠 How It Works
+
+- Trained on real-world PCOD dataset
+- Uses health and lifestyle features like:
+- Age, BMI, pulse rate, hemoglobin
+- Menstrual cycle pattern
+- Hair growth, skin darkening, pimples, and more
+- Returns prediction: PCOD: Likely / Unlikely
+
+---
+
+🧑‍🎓 For Users – Step-by-Step Guide:
+
+- Go to the live app link.
+- Enter your health details:
+- Your age, pulse rate, cycle details, etc.
+- Click "Predict".
+- The app will display the result: ✅ Likely or ❌ Not likely to have PCOD.
+
+(Optional) Read the Help Corner in the sidebar MENU for feature definitions to have a better understanding about the features.
+
