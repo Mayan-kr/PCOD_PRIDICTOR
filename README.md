@@ -61,3 +61,9 @@ streamlit run app.py
 
 (Optional) Read the Help Corner in the sidebar MENU for feature definitions to have a better understanding about the features.
 
+---
+
+✨ Credits:
+
+  Model: Random Forest using scikit-learn
+  Dataset: Public PCOS dataset (modified) src:"https://www.kaggle.com/datasets/shreyasvedpathak/pcos-dataset"
